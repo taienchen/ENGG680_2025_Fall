@@ -1,1 +1,1 @@
-i come from Coba but i am a chinese
+we will be rich
