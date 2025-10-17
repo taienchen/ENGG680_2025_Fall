@@ -1,3 +1,12 @@
-This is a sample README.md file. Please edit according to the instructions.
+Perry Zhang           30274239
 
-Thanks :D
+Nabin Devkota      30295378
+
+Gulshan Kumar      30296437
+
+Taien Chen             30298923
+
+
+
+##### This assignment is about python data types, pandas data frame and Linear LSE.
+
